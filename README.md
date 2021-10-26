@@ -12,10 +12,10 @@ A CLI(Command Line Interface) for making webhook API requests to the Discord soc
 
 If your WebhookURL is invalid, you will see this specific error message:
 
-![Imgur](https://imgur.com/8QJhjZq)
+![Imgur](https://i.imgur.com/8QJhjZq.png)
 
 Or, if you're using the ``--verbose``/``-v`` option:
 
-![Imgur](https://imgur.com/oTXKR9w)
+![Imgur](https://i.imgur.com/oTXKR9w.png)
 
 Any other error messages will be shown to you. If you determine that the error was not at your fault, then please create a new Issue and we will solve it for you in due time.
